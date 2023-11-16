@@ -1,0 +1,4 @@
+{
+  // c++ formatting
+  "C_Cpp.clang_format_style": "file"
+}
